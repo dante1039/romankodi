@@ -24,11 +24,14 @@ if gay == "yes":
     print(theresa_lynn)
 elif gay == "no":
     print(emilio_g)
+else:
+    print("Y U not gey?")
 
 gay = input("are u gay")
 if gay == "yes":
     print(theresa_lynn)
 elif gay == "no":
     print(emilio_g)
+    print("boo u whore")
 else:
     print("Y U not gey?")
