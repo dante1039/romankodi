@@ -30,3 +30,5 @@ if gay == "yes":
     print(theresa_lynn)
 elif gay == "no":
     print(emilio_g)
+else:
+    print("Y U not gey?")
