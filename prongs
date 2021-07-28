@@ -12,11 +12,11 @@ print(yams)
 yams += yams
 print(yams)
 
-theresa_lynn = "the coolest"
+theresa_lynn = "not the coolest"
 theresa_l = 1039
 
 
-emilio_g = "2nd coolest"
+emilio_g = "most coolest"
 
 
 gay = input("are u gay")
