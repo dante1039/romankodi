@@ -1,0 +1,32 @@
+echo "# romankodi" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/dante1039/romankodi.git
+git push -u origin main
+
+
+yams = 1039**3
+print(yams)
+yams += yams
+print(yams)
+
+theresa_lynn = "the coolest"
+theresa_l = 1039
+
+
+emilio_g = "2nd coolest"
+
+
+gay = input("are u gay")
+if gay == "yes":
+    print(theresa_lynn)
+elif gay == "no":
+    print(emilio_g)
+
+gay = input("are u gay")
+if gay == "yes":
+    print(theresa_lynn)
+elif gay == "no":
+    print(emilio_g)
