@@ -32,6 +32,12 @@ if gay == "yes":
     print(theresa_lynn)
 elif gay == "no":
     print(emilio_g)
+    import time
+    time.sleep(3)
+    print('\n\n\n')
     print("boo u whore")
+    import time
+    time.sleep(3)
 else:
     print("Y U not gey?")
+
